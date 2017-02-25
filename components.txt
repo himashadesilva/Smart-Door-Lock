@@ -1,0 +1,20 @@
+arduino uno  						Rs 1,000.00 
+wifi module ESP8266					Rs 700.00
+
+4x4 keypad						Rs 180.00 
+
+LCD Screen (compatible with Hitachi HD44780 driver) 	Rs 375.00 
+10k ohm potentiometer 					Rs 20.00
+220 ohm resistor
+
+switch
+10K ohm resistor
+
+solenoid lock						Rs 630.00
+Power Transformer 230V,12Vx2,500mA 			Rs 550.00 
+1K resistor
+TIP120 transistor (TIP102 will also work fine)		Rs 30.00 
+1N4004 diode (1N4001 also works)
+
+JPEG camera						Rs 4500.00
+
